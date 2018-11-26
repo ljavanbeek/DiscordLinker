@@ -1,8 +1,12 @@
 # DiscordLinker
-Idee: Mogelijkheid maken om een actieve verbinding tussen MC server en Discord server te maken.
-Download: https://projects.minetopiasdb.nl/discordlinker/
+**Idee:** Mogelijkheid maken om een actieve verbinding tussen MC server en Discord server te maken.
+
+**Download:** https://projects.minetopiasdb.nl/discordlinker/
+
+
 
 Setup:
+
 Stap 0: Gooi het DiscordLinker.jar bestand in je plugins mapje en start jouw server op.
 
 Stap 1: [Ga naar de Discord Developer pagina en log indien nodig in.](https://discordapp.com/developers/applications/me)
